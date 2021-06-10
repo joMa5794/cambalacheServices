@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{BA543ED3-4F7B-439B-A733-D6D866CED010}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cambalache/Entities/Email.cs">
+    <Files>
+      <File FileName="cambalache/appsettings.json" Line="19" Column="4" />
+      <File FileName="cambalache/Program.cs" Line="16" Column="1" />
+      <File FileName="cambalache/Startup.cs" Line="61" Column="16" />
+      <File FileName="cambalache/Entities/Product.cs" Line="16" Column="6" />
+      <File FileName="cambalache/Entities/ProductType.cs" Line="8" Column="14" />
+      <File FileName="cambalache/Entities/ProductContext.cs" Line="14" Column="46" />
+      <File FileName="cambalache/Properties/launchSettings.json" Line="24" Column="26" />
+      <File FileName="cambalache/Interfaces/IProductRepository.cs" Line="11" Column="104" />
+      <File FileName="cambalache/Repository/ProductRepository.cs" Line="56" Column="10" />
+      <File FileName="cambalache/Controllers/ProductController.cs" Line="55" Column="41" />
+      <File FileName="cambalache/Entities/RequestProduct.cs" Line="12" Column="20" />
+      <File FileName="cambalache/Entities/Product (copia).cs" Line="2" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cambalache" expanded="True">
+            <Node name="cambalache" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True">
+                <Node name="Email.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.cambalache PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/JoseOrtiz/Projects/cambalache/cambalache/Controllers/ProductController.cs" relfile="cambalache/Controllers/ProductController.cs" line="42" column="1" />
+      <Breakpoint file="/Users/JoseOrtiz/Projects/cambalache/cambalache/Repository/ProductRepository.cs" relfile="cambalache/Repository/ProductRepository.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
